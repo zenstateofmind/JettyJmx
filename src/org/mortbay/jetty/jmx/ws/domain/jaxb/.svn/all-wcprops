@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/jetty-contrib/!svn/ver/1936/sandbox/jetty-jmx-ws/src/main/java/org/mortbay/jetty/jmx/ws/domain/jaxb
+END
+IndexJaxBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/jetty-contrib/!svn/ver/1936/sandbox/jetty-jmx-ws/src/main/java/org/mortbay/jetty/jmx/ws/domain/jaxb/IndexJaxBean.java
+END
+NodesJaxBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/jetty-contrib/!svn/ver/1936/sandbox/jetty-jmx-ws/src/main/java/org/mortbay/jetty/jmx/ws/domain/jaxb/NodesJaxBean.java
+END
+NodeJaxBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/jetty-contrib/!svn/ver/1936/sandbox/jetty-jmx-ws/src/main/java/org/mortbay/jetty/jmx/ws/domain/jaxb/NodeJaxBean.java
+END
+URLsJaxBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/jetty-contrib/!svn/ver/1936/sandbox/jetty-jmx-ws/src/main/java/org/mortbay/jetty/jmx/ws/domain/jaxb/URLsJaxBean.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/jetty-contrib/!svn/ver/1936/sandbox/jetty-jmx-ws/src/main/java/org/mortbay/jetty/jmx/ws/service/impl
+END
+JMXServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/jetty-contrib/!svn/ver/1936/sandbox/jetty-jmx-ws/src/main/java/org/mortbay/jetty/jmx/ws/service/impl/JMXServiceImpl.java
+END
+JMXNodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/jetty-contrib/!svn/ver/1936/sandbox/jetty-jmx-ws/src/main/java/org/mortbay/jetty/jmx/ws/service/impl/JMXNodeServiceImpl.java
+END
+AggregateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/jetty-contrib/!svn/ver/1936/sandbox/jetty-jmx-ws/src/main/java/org/mortbay/jetty/jmx/ws/service/impl/AggregateServiceImpl.java
+END
